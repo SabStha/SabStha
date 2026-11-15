@@ -11,7 +11,7 @@ I work in technical support for network-security products: troubleshooting, fire
 | Project | What problem it solves | Status |
 |---|---|---|
 | [**Cloud Career HQ**](https://sabstha.github.io/cloud-career-hq-demo/) | Tracks job requirements against evidence I can actually prove. Cognito (MFA), AppSync, DynamoDB and Amplify in Tokyo, with a restore drill tested on real AWS. Source is private; [public demo](https://github.com/SabStha/cloud-career-hq-demo) uses fictional data. | ✅ Deployed (Nov 2026) |
-| [**stratus-works**](https://github.com/SabStha/stratus-works) | My public work log: VPC, EC2 and Terraform first, then CloudWatch monitoring, then CI/CD with GitHub Actions. Tickets, decisions, incident write-ups. | 🚧 In progress |
+| [**aws-cloud-portfolio**](https://github.com/SabStha/aws-cloud-portfolio) | My public AWS work log, run like an ops team (tickets, PR reviews, postmortems). So far: account guardrails with SSO and budgets, a least-privilege Lambda/DynamoDB incident with postmortem, and a cost-check tool for every region. Next: VPC, private EC2 via SSM, Terraform. | 🚧 In progress |
 | [**network-cloud-lab-docs**](https://github.com/SabStha/network-cloud-lab-docs) | Design documentation for an enterprise network and hybrid cloud lab. | 📄 Documentation |
 | [**Portfolio**](https://sabstha.github.io) | Case studies in English and Japanese, showing what was built, how it's secured, what it costs and what isn't finished. | ✅ Live |
 
